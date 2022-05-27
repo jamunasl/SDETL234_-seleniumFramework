@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class is used to  store commonData for all test scripts
  * @author jamuna
- *
+ *  this is baseclass
  */
 public class BaseClass 
 {
