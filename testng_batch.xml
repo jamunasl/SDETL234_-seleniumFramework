@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <packages>
+      <package name="com.vtiger.productsTest"/>
+      <package name="com.vtiger.organizationTest"/>
+      <package name="com.vtiger.practice"/>
+      <package name="com.vtiger.contactsTest"/>
+      <package name="com.vtiger.campaignTest"/>
+      <package name="com.vtiger.documentsTest"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
