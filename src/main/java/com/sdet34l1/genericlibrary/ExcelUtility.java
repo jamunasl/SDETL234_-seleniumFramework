@@ -12,11 +12,9 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 /**
  * This class is used to get the data from excel sheet 
  * @author jamuna
-<<<<<<< HEAD
+
  * this is excel created by jamuna
-=======
- * this is excel created by narayan
->>>>>>> branch 'jamuna' of https://github.com/jamunasl/SDETL234_-seleniumFramework.git
+
  */
 public class ExcelUtility
 {	
